@@ -1,0 +1,29 @@
+Representação de Dados
+ 8 bit = 1 byte 'byte representa uma informação'
+ 
+ 1024 bytes = 1 KB
+ 1024 KB = 1 MB
+ 1024 MB = 2 GB
+ 1024 GB = 1 TB
+ 
+códificação UTF-8 => 01000001 = A
+
+Na verdade o computador não intende 0 e 1, o computador intende ondas quadradas de 2 estágios. 0 e 1 é modo de dizer.
+
+MB = megaBYTES (Armazenamento => MB GB TB (computadores, celulares)
+Mb = megaBITS (internet 60 Mb) => Mb Gb Tb (internet)
+
+Cliente até o Servidor 
+-- cliente: quem deseja serviços/conteúdo ao servidor.
+-- reteador: transforma as ondas quatradas que o computador manda em ondas senoidal que as redes entendem, vise-versa, fazendo a MOdulação e a DEModulação => MODEM
+-- internet: o lugar onde mora todos os sevidores e inderessos assim como o http://
+-- servidor: lugar onde ficam armazenado os conteúdos.
+
+Como servidor sabe para quem que é para mandar a requisição?
+Tando o cliente como o servidor receber um IP, com isso o IP do cliente o servidor consegue encontralo, e enviar corretamente a requisição.
+ 
+O que é DNS?
+-- É um sistema de controle e registro de dominios, com ele os sites cadastram um dominios, e o DNS fica responsval por mandar para o cliente, o IP do servidor quando ele acessar o nome do dominio.
+
+E as rotas?
+-- Quando um cliente faz um requisição, cada pedacinho da requisição, pode pegar rotas totalmente diferente, chegando em tempos diferente.
