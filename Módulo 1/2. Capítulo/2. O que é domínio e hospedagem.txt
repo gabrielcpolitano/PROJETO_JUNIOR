@@ -1,0 +1,21 @@
+
+Domínio: Um nome exclusivo que identifica o seu site.
+- Características:
+  - Único.
+  - Pago anualmente.
+  - Pode ter vários TLDs (Top-Level Domains, como .com, .net, .org).
+
+Servidor/Hospedagem: O local onde o conteúdo do seu site é armazenado e disponibilizado na internet.
+- Características:
+  - Pago mensalmente.
+  - É essencial considerar aspectos como espaço, memória e recursos ao escolher um provedor de hospedagem.
+
+URL (Uniform Resource Locator): Um localizador uniforme de recursos, utilizado para identificar e acessar recursos na internet.
+
+TLDs:
+- gTLD (Generic Top-Level Domain): Domínios genéricos, como .com, .net, .store.
+- ccTLD (Country Code Top-Level Domain): Domínios específicos de países, como .br (Brasil), .us (Estados Unidos), .uk (Reino Unido).
+
+Subdomínio: Parte do domínio que precede o domínio principal, como 'www'.
+
+Caminho: A parte da URL que vem após a barra "/", indicando um caminho específico dentro do site.
