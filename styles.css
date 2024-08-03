@@ -229,3 +229,35 @@ footer > p {
 i{
   color:#fff;
 }
+
+
+.tile {
+  width: 70%;
+  background-color: white; /* Fundo branco */
+  color: black; /* Texto preto */
+  margin: 10px;
+  padding: 8px;
+  border-radius: 17px;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase; /* Texto em maiúsculas */
+  font-weight: bold; /* Texto em negrito */
+  letter-spacing: 1px; /* Espaçamento entre letras */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.7); /* Efeito brilhante */
+  animation: pulse 1.5s infinite; /* Animação pulsante */
+  transition: transform 0.2s ease-in-out; /* Transição para o hover */
+}
+
+.tile:hover {
+  transform: scale(1.05); /* Aumenta o tamanho ao passar o mouse */
+}
+
+/* Animação de pulsação */
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 60px rgba(255, 255, 255, 1);
+  }
+}
