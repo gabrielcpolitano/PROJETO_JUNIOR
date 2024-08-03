@@ -1,8 +1,0 @@
-Use quando estiver em alguma dúvida:
--- História da Internet
--- Mozilla Developer Network
--- W3C Standards
--- WHATWG Living Standard 
--- W3Schools
-
-Não sou um aluno que entende bem as coisa com documentação e livros, então só vou usar esse tipo de material quando necessario!

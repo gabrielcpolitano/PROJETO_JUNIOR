@@ -1,3 +1,0 @@
-HTML - conteúdo
-CSS - estilização
-JS - inteligencia
